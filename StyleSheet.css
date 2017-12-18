@@ -1,0 +1,643 @@
+#divh-1{
+    width: 100%;
+    height: 660px;
+    position: relative;
+    background-image: url(h.jpg);
+    margin: 00px;
+    padding: 00px;
+    float: left;
+    left: 00px;
+    top: 00px;
+}
+#divh-2{
+    width: 100%;
+    height: 86px;
+    padding: 00px;
+    margin: 00px;
+    float: left;
+    position: relative;
+    background-color: #48cfc1;
+}
+#logo-1{
+    width: 32px;
+    height: 32px;
+    padding: 00px;
+    margin-left: 10px;
+    margin-top: 22px;
+    float: left;
+    position: relative;
+    
+}
+#logo-2{
+    width: 25%;
+    height: 40px;
+    padding: 00px;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+    position: relative;
+    font-size: 13px;
+    font-family: 'Varela Round', sans-serif;
+}
+#menu-1{
+    width: 4%;
+    height: 50px;
+    padding: 00px;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: right;
+    position: relative;
+    
+}
+#menu-2{
+    width: 55%;
+    height: 50px;
+    padding: 00px;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: right;
+    position: relative;
+    
+}
+#pic-1{
+    width: 60%;
+    height: 150px;
+    padding: 00px;
+    margin-left: 250px;
+    margin-top: 200px;
+    float: left;
+    position: relative;
+    text-align: center;
+    
+}
+#pic-2{
+    width: 50%;
+    height: 60px;
+    padding: 00px;
+    margin-left: 350px;
+    margin-top: 60px;
+    float: left;
+    position: relative;
+  
+}
+#sro-1{
+    width: 100%;
+    height: 400px;
+    padding: 01px;
+    margin: 00px;
+    float: left;
+    position: relative;
+}
+#sro-2{
+    width: 33%;
+    height: 400px;
+    padding: 00px;
+    margin: 00px;
+    float: left;
+    position: relative;
+    display:block;
+    
+}
+#sro-3{
+    width: 33%;
+    height: 400px;
+    padding: 00px;
+    margin: 00px;
+    float: left;
+    position: relative;
+   
+}
+#sro-4{
+    width: 34%;
+    height: 400px;
+    padding: 00px;
+    margin: 00px;
+    float: left;
+    position: relative;
+    display:block;
+    
+}
+#sro-5{
+    width: 70%;
+    height: 100px;
+    padding: 00px;
+    margin-left: 50px;
+    margin-top: 20px;
+    float: left;
+    position: relative;
+    
+}
+a{
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Varela Round', sans-serif;
+}
+#sro-6{
+    width: 70%;
+    height: 250px;
+    padding: 00px;
+    margin-left: 50px;
+    margin-top: 20px;
+    float: left;
+    position: relative;
+    
+}
+#ri-1{
+    width: 100%;
+    height: 267px;
+    padding: 01px;
+    margin: 00px;
+    float: left;
+    position: relative;
+    margin-bottom: 20px;
+    background-color: #f0e3e3;
+   
+}
+#ri-2{
+    width: 17%;
+    height: 150px;
+    padding: 01px;
+    margin-left: 100px;
+    margin-top: 80px;
+    float: left;
+    position: relative;
+   
+}
+#ri-3{
+    width: 17%;
+    height: 150px;
+    padding: 01px;
+    margin-left: 100px;
+    margin-top: 80px;
+    float: left;
+    position: relative;
+   
+}
+#ri-4{
+    width: 17%;
+    height: 150px;
+    padding: 01px;
+    margin-left: 100px;
+    margin-top: 80px;
+    float: left;
+    position: relative;
+   
+}
+#ri-5{
+    width: 17%;
+    height: 150px;
+    padding: 01px;
+    margin-left: 100px;
+    margin-top: 80px;
+    float: left;
+    position: relative;
+   
+}
+#ri-3-1{
+    width: 40%;
+    height: 60px;
+    padding: 01px;
+    margin-left: 60px;
+    margin-top: 10px;
+    float: left;
+    position: relative;
+    background-color:#48cfc1;
+    border-radius: 100%;
+}
+#ri-4-1{
+    width: 40%;
+    height: 60px;
+    padding: 01px;
+    margin-left: 60px;
+    margin-top: 10px;
+    float: left;
+    position: relative;
+     background-color:#48cfc1;
+    border-radius: 100%;
+}
+#ri-5-1{
+    width: 40%;
+    height: 60px;
+    padding: 01px;
+    margin-left: 60px;
+    margin-top: 10px;
+    float: left;
+    position: relative;
+     background-color:#48cfc1;
+    border-radius: 100%;
+}
+#so-1{
+    width: 100%;
+    height: 450px;
+    padding: 01px;
+    margin: 00px;
+    float: left;
+    position: relative;
+   
+}
+#so-2{
+    width: 30%;
+    height: 410px;
+    padding: 01px;
+    margin: 00px;
+    float: left;
+    position: relative;
+    text-align: center;
+    
+}
+#so-3{
+    width: 69.3%;
+    height: 440px;
+    padding: 01px;
+    margin: 00px;
+    float: left;
+    position: relative;
+
+}
+#so-4{
+    width: 304px;
+    height: 204px;
+    padding: 01px;
+    float: left;
+    position: relative;
+
+}
+#so-5{
+    width: 304px;
+    height: 204px;
+    padding: 01px;
+    float: left;
+    position:relative;
+
+}
+#so-6{
+    width: 304px;
+    height: 204px;
+    padding: 01px;
+    float: left;
+    position:relative;
+
+}
+#so-7{
+    width: 304px;
+    height: 204px;
+    padding: 01px;
+    float: left;
+    position:relative;
+
+}
+#so-8{
+    width: 295px;
+    height: 204px;
+    padding: 01px;
+    float: left;
+    position:relative;
+
+}
+#so-9{
+    width: 295px;
+    height: 204px;
+    padding: 01px;
+    float: left;
+    position:relative;
+
+}
+#a-1{
+    width: 100%;
+    height: 300px;
+    padding: 01px;
+    margin: 00px;
+    float: left;
+    position: relative;
+    background-color:  #3c3d41;
+}
+ul li a{
+    list-style-type: none;
+    display: inline-block;
+    text-align: center;
+        line-height: 2.2em;
+            color: #A9A8A8;
+                font-weight: 100;
+                list-style-type: none;
+               
+                
+}
+#a-2{
+    width: 25%;
+    height: 300px;
+    padding: 01px;
+    margin: 00px;
+    float: left;
+    position: relative;
+   
+}
+#a-3{
+    width: 25%;
+    height: 300px;
+    padding: 01px;
+    margin: 00px;
+    float: left;
+    position: relative;
+   
+}
+#a-4{
+    width: 24%;
+    height: 300px;
+    padding: 01px;
+    margin: 00px;
+    float: left;
+    position: relative;
+   
+}
+#a-5{
+    width: 24%;
+    height: 300px;
+    padding: 01px;
+    margin: 00px;
+    float: left;
+    position: relative;
+   
+}
+#footer-1{
+    width: 100%;
+    height: 180px;
+    padding: 01px;
+    margin: 00px;
+    float: left;
+    position: relative;
+    background-color: #3c3d41;
+}
+#footer-2{
+    width: 60%;
+    height: 40px;
+    padding: 00px;
+    margin-left: 250px;
+    margin-top: 20px;
+    float: left;
+    position: relative;
+    
+}
+#footer-3{
+    width: 60%;
+    height: 40px;
+    padding: 00px;
+    margin-left: 250px;
+    margin-top: 10px;
+    float: left;
+    position: relative;
+   
+}
+#footer-4{
+    width: 188px;
+    height: 25px;
+    padding: 00px;
+    margin-left: 550px;
+    margin-top: 20px;
+    float: left;
+    position: relative;
+   }
+#divh-2 tr td a:hover{
+    transition-duration: .3s;
+}
+#divh-2 tr td:hover{
+    border-bottom: 4px solid white;
+}
+#login-1{
+    width: 34%;
+    height: 400px;
+    padding: 00px;
+    margin-left: 450px;
+    margin-top: 150px;
+    float: left;
+    position: relative;
+    display:block;
+    
+}
+#login-footer-1{
+    width: 100%;
+    height: 200px;
+    padding: 01px;
+    margin: 00px;
+    float: left;
+    position: relative;
+    background-color: #48cfc1;
+    
+}
+#login-divh-1{
+    width: 100%;
+    height: 690px;
+    padding: 00px;
+    margin: 00px;
+    float: left;
+    position: relative;
+    background-image: url(1.jpg);
+   border: 2px solid white;
+}
+#ma-divh-1{
+    width: 100%;
+    height: 690px;
+    padding: 00px;
+    margin: 00px;
+    float: left;
+    position: relative;
+    background-image: url(banner7.jpg);
+}
+#ma-pic-2{
+    width: 40%;
+    height: 220px;
+    padding: 00px;
+    margin-left: 220px;
+    margin-top: 320px;
+    float: left;
+    position: relative;
+    
+}
+#admin-divh-2{
+    width: 100%;
+    height: 46px;
+    padding: 00px;
+    margin: 00px;
+    float: right;
+    position: relative;
+    background-color: #48cfc1;
+    border: 2px solid black;
+    margin-left: 10px;
+}
+#admin-footer-4{
+    width: 100px;
+    height: 25px;
+    padding: 00px;
+    float: right;
+    position: relative;
+    margin-right: 20px;
+   }
+#pic-2 tr td:hover{
+    border: 3px;
+    transition-duration: .3s;
+}
+#admin-home-divh-1{
+    width: 100%;
+    height: 690px;
+    padding: 00px;
+    margin: 00px;
+    float: left;
+    position: relative;
+   border: 2px solid white;
+}
+#contact-home-divh-1{
+    width: 100%;
+    height: 750px;
+    padding: 00px;
+    margin: 00px;
+    float: left;
+    position: relative;
+    border: 2px solid white;
+}
+#recharge-divh-1{
+    width: 100%;
+    height: 390px;
+    padding: 00px;
+    margin: 00px;
+    float: left;
+    position: relative;
+    background-image: url(banner7.jpg);
+    
+}
+#recharge-sro-1{
+    width: 100%;
+    height: 900px;
+    padding: 01px;
+    margin: 00px;
+    float: left;
+    position: relative;
+    
+}
+#recharge-ri-1{
+    width: 100%;
+    height: 267px;
+    padding: 01px;
+    margin: 00px;
+    float: left;
+    position: relative;
+    
+}
+#planlist1{
+    
+    width: 100%;
+    height: 910px;
+    float: left;
+    margin-left: 00px;
+    margin-top: 10px;
+    text-align: center;
+}
+   #recharge-div11{
+                width:50%;
+                height: 50px;
+                padding: 00px;
+                margin-left: 400px;
+                margin-top: 40px;
+                position: relative;
+                float: left;
+               
+                
+            }
+#contactus-footer-1{
+    width: 100%;
+    height: 200px;
+    padding: 01px;
+    margin: 00px;
+    float: left;
+    position: relative;
+    background-color: #3c3d41;
+    
+}
+#recharge-sro-1-2{
+    
+    width: 510px;
+    height: 510px;
+    float: right;
+    margin-left: 00px;
+    margin-top: 10px;
+    text-align: center;
+    border: 1px solid black;
+}
+#div-2{
+    width: 100%;
+    height: 86px;
+    padding: 00px;
+    margin: 00px;
+    float: left;
+    position: relative;
+    margin-bottom: 20px;
+    text-align: center;
+}
+#copoun-divh-1{
+    width: 100%;
+    height: 690px;
+    padding: 00px;
+    margin: 00px;
+    float: left;
+    position: relative;
+    background-image: url(hani.jpg);
+    
+}
+#login-2{
+    width: 34%;
+    height: 400px;
+    padding: 00px;
+    margin-left: 100px;
+    margin-top: 150px;
+    float: left;
+    position: relative;
+    display:block;
+    border: 2px solid black;
+}
+#div-plan-1{
+    width: 100%;
+    height: 500px;
+    padding: 1px;
+    float: left;
+    margin: 00px;
+    
+}
+#planlist-divh-1{
+    width: 100%;
+    height: 690px;
+    padding: 00px;
+    float: left;
+    position: relative;
+    margin-bottom: 50px;
+    background-image: url();
+    overflow: scroll;
+}
+#signup-sro-1{
+    width: 100%;
+    height: 950px;
+    padding: 01px;
+    margin: 00px;
+    float: left;
+    position: relative;
+    
+}
+#admin-login-1{
+    width: 34%;
+    height: 400px;
+    padding: 00px;
+    margin-left: 150px;
+    margin-top: 150px;
+    float: left;
+    position: relative;
+    display:block;
+    border: 2px solid black;
+    
+}
+
+
+
+
+
+
+
+
+
+
